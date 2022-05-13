@@ -51,6 +51,9 @@ Content
     font-weight: bold;
     line-height: 1.7;
 }
+.content .menu ul li .active{
+    color: #333;
+}
 
 /*============
 Media Query
